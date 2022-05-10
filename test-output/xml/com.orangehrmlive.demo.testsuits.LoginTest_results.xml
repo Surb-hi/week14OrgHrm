@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Visa conformation Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="32.359">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldLogOutSuccessFully" time="3.574" classname="com.orangehrmlive.demo.testsuits.LoginTest" />
+                <testcase name="verifyUserShouldLoginSuccessFully" time="25.602" classname="com.orangehrmlive.demo.testsuits.LoginTest" />
+                <testcase name="verifyThatTheLogoDisplayOnHomePage" time="3.183" classname="com.orangehrmlive.demo.testsuits.LoginTest" />
+      
+</testsuite>

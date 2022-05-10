@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Visa conformation Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.899">
+  <properties />
+  
+  
+            <testcase name="adminShouldAddUserSuccessFully" time="5.309" classname="com.orangehrmlive.demo.testsuits.UsersTest" />
+                <testcase name="verifyThatAdminShouldDeleteTheUserSuccessFully" time="6.196" classname="com.orangehrmlive.demo.testsuits.UsersTest" />
+                <testcase name="searchTheUserCreatedAndVerifyIt" time="5.137" classname="com.orangehrmlive.demo.testsuits.UsersTest" />
+                <testcase name="searchTheDeletedUserAndVerifyTheMessageNoRecordFound" time="4.257" classname="com.orangehrmlive.demo.testsuits.UsersTest" />
+      
+</testsuite>
